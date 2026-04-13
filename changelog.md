@@ -1,1 +1,2 @@
-* Tested in NVDA 2025.1 and works OK.
+* Updated rusian localization
+* Fixed screen curtain detection
